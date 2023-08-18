@@ -21,7 +21,7 @@ Teste do _itálico_
 1. Caneta
 2. Lápis
 3. Borracha
-4. Apontador
+
 
 ![(Eddie)](https://pipz.com/static/images/blog/eddie.png)
 
